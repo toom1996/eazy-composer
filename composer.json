@@ -1,0 +1,17 @@
+{
+    "name": "eazysoft/eazy-composer",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "eazy\\composer": "src/"
+        }
+    },
+    "require": {
+        "composer-plugin-api": "^1.0 | ^2.0"
+    },
+    "require-dev": {
+        "composer/composer": "^1.0 | ^2.0@dev",
+        "phpunit/phpunit": "<7"
+    },
+    "minimum-stability": "dev"
+}
