@@ -10,7 +10,7 @@ class Plugin implements PluginInterface
 {
     public function activate(Composer $composer, IOInterface $io)
     {
-
+        die('3333');
     }
 
     public function deactivate(Composer $composer, IOInterface $io)
