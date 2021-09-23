@@ -6,6 +6,9 @@
             "eazy\\composer\\": "src/"
         }
     },
+    "extra":{
+        "class": "eazy\\composer\\Plugin"
+    },
     "require": {
         "composer-plugin-api": "^1.0 | ^2.0"
     },
