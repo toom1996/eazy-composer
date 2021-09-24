@@ -7,4 +7,5 @@ use Composer\Installer\LibraryInstaller;
 class Installer extends LibraryInstaller
 {
 
+
 }
