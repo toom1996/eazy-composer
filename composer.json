@@ -10,9 +10,7 @@
         "class": "eazy\\composer\\Plugin"
     },
     "require": {
-        "composer-plugin-api": "^1.0 | ^2.0"
-    },
-    "require-dev": {
+        "composer-plugin-api": "^1.0 | ^2.0",
         "composer/composer": "^1.0 | ^2.0@dev"
     },
     "minimum-stability": "dev"
